@@ -1,2 +1,4 @@
-# wics-webdev
-WiCS x FLITE Web Dev Workshop
+# maysworld-website
+
+[Disappearing Nav Bar: ](https://codepen.io/davidcochran/pen/Dihnl)
+
