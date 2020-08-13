@@ -360,11 +360,6 @@ body {
 	}
 }
 
-/* make objects rescalable */
-img {
-    width: 100%;
-    height: auto;
-}
 /* unused code */
 /*
 h1 {
