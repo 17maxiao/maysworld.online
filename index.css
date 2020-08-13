@@ -63,7 +63,7 @@ body {
     text-decoration: none;
     color: #fff;
     line-height: 65px;
-    font-size: 2.4rem;
+    font-size: 1.5rem; /* downsized font */
 }
 
 .nav div.main_list ul li a:hover {
@@ -125,6 +125,7 @@ body {
         left: 0;
         bottom: 0;
         background-color: #111;
+        opacity: 0.6; /* adding opacity */
         /*same background color of navbar*/
         background-position: center top;
     }
@@ -339,6 +340,7 @@ body {
 .affix {
     padding: 0;
     background-color: #111;
+    opacity: 0;
 }
 
 
@@ -358,6 +360,11 @@ body {
 	}
 }
 
+/* make objects rescalable */
+img {
+    width: 100%;
+    height: auto;
+}
 /* unused code */
 /*
 h1 {
