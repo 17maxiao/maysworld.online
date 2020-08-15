@@ -9,34 +9,16 @@
 
 </head>
 <body>
-  <!--
-  <header role="banner">
-    <img id="logo-main" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/32877/logo-thing.png" width="200" alt="Logo Thing main logo">
-
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">Welcome to May's World ::</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-          <a class="nav-item nav-link active" href="#">Home Online<span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link" href="#">Animations</a>
-          <a class="nav-item nav-link" href="#">Comics</a>
-          <a class="nav-item nav-link" href="#">Album Art</a>
-          <a class="nav-item nav-link" href="#">Photography</a>
-          <a class="nav-item nav-link" href="#">Illustrations</a>
-        </div>
-      </div>
-    </nav>
-  </header><!-- header role="banner" -->
-
   <nav class="nav">
         <div class="container">
             <div class="logo">
                 <a href="home.html">
-                  <img alt="click to enter" src="img/enter3.gif" width=50% height=50%>
+                  <img alt="click to enter" src="img/enter3.gif" width=45% height=45%>
                 </a>
+                <form action="js/server.js" method="get">
+                  <input type="text" id="thing" value="Share your answer! :-]" size="50">
+                  <input type="submit" value="Submit">
+                </form>
             </div>
             <span class="navTrigger">
                 <i></i>
@@ -70,7 +52,7 @@
     </div>
 <!-- Jquery needed -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="js/scripts.js"></script>
+    <script src="js/nav.js"></script>
 <!-- Function used to shrink nav bar removing paddings and adding black background -->
     <script>
         $(window).scroll(function() {

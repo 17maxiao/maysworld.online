@@ -1,12 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
-html,
+/*
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+*/
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Quicksand", sans-serif;
-    font-size: 62.5%;
-    font-size: 10px;
+    /*
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'Press Start 2P', cursive;
+    */
+    font-family: 'VT323', monospace;
+    font-size: 60%;
+    font-size: 20px;
 }
 /*-- Inspiration taken from abdo steif -->
 /* --> https://codepen.io/abdosteif/pen/bRoyMb?editors=1100*/
