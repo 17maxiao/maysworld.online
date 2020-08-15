@@ -2,7 +2,9 @@
 
 ### Links to Resources Used
 * [Disappearing Nav Bar](https://codepen.io/davidcochran/pen/Dihnl)
-* [Fonts - not used](https://fonts.google.com/specimen/Nanum+Gothic+Coding?preview.text=May%27s+World+Online&preview.text_type=custom&sidebar.open=true&selection.family=Nanum+Gothic+Coding#pairings)
+* [Font - VT323](https://fonts.google.com/specimen/VT323?preview.text_type=custom&sidebar.open=true&preview.text=share+your+answer&selection.family=VT323#standard-styles)
+* [Font - Cutive Mono](https://fonts.google.com/specimen/Cutive+Mono?preview.text_type=custom&sidebar.open=true&preview.text=share+your+answer)
+* [Font - Quicksand](https://fonts.google.com/specimen/VT323?preview.text_type=custom&sidebar.open=true&preview.text=share+your+answer&selection.family=VT323)
 * [Git Large File Storage for Video and Photo Uploads](https://git-lfs.github.com/)
 
 
